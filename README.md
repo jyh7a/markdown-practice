@@ -60,6 +60,7 @@ _이텔릭_
 
 [NAVER](https://naver.com "NAVER로 이동!") {:target="_blank"}  
 [새 탭에서 열기](https://www.google.com/){:target="_blank"}
+[건망증이 심한 엔지니어](https://techstock.biz){:target="_blank"}
 
 # 이미지(Images)
 
