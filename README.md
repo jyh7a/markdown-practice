@@ -58,7 +58,8 @@ _이텔릭_
 
 <a href="https://naver.com" title="NAVER로 이동!">NAVER</a>
 
-[NAVER](https://naver.com "NAVER로 이동!") {:target="\_blank"}
+[NAVER](https://naver.com "NAVER로 이동!") {:target="_blank"}  
+[새 탭에서 열기](https://www.google.com/){:target="_blank"}
 
 # 이미지(Images)
 
